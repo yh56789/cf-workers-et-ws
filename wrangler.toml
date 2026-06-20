@@ -10,7 +10,7 @@ compatibility_flags = ["nodejs_compat"]
 WS_PATH = ""
 
 # 转发，0为关闭，1为开启
-EASYTIER_DISABLE_RELAY = "0"
+EASYTIER_DISABLE_RELAY = "1"
 
 EASYTIER_COMPRESS_RPC = "1"
 
